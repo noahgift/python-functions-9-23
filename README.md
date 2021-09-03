@@ -15,6 +15,23 @@ First create and source a virtualenv so libraries are easy to use
 You can refer here for [ideas](https://github.com/noahgift/function-bike-rider)
 
 
+## Building web based microservice
+
+* Go to external IP address with :8080/docs
+* Query the add API
+* Note, you can also query via curl:
+
+```
+curl -X 'GET' \
+  'http://54.82.166.171:8080/add/20/20' \
+  -H 'accept: application/json'
+  
+```
+
+
+
+
+
 ![functions-overview](https://user-images.githubusercontent.com/58792/132020390-db239278-a9a6-4791-9321-32077d7a5024.png)
 
 
