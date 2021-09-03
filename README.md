@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/noahgift/python-functions-9-23/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/python-functions-9-23/actions/workflows/main.yml)
+
 # python-functions-9-23
 This is a new repo for a live training by O'Reilly.
 This repo contains the following:
